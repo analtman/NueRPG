@@ -8190,6 +8190,7 @@ h1, h2, h3, h4, h5,
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
+  overflow: hidden;
 }
 
 .login-wrap {
@@ -8349,6 +8350,5 @@ textarea.form-control {
         color: #fff; }
 
       #vid-bg video{
-       width: 100%; !important;
         position: absolute;
       }
